@@ -1,2 +1,2 @@
 # cheatsheets
-Cheatsheets for cheat
+Cheatsheets for [cheat](https://github.com/cheat/cheat)
