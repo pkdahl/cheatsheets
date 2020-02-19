@@ -1,0 +1,2 @@
+# Generate a new password pass-name of length N without any symbols
+pass generate -n pass-name N
