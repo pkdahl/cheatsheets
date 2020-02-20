@@ -1,0 +1,24 @@
+# Create a fold from the cursor down # lines
+zf#j
+
+# Move to next/previous fold
+zj/k
+
+# Open fold/all folds
+zo/O
+
+# Close all open folds
+zM
+
+# Increase foldlevel by one
+zm
+
+# Decrease foldlevel by one/set foldlevel to zero
+zr/R
+
+# Delete fold at cursor/all folds
+zd/E
+
+# Move to start/end of open fold
+[z / ]z
+
