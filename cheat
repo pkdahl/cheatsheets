@@ -1,0 +1,2 @@
+# Specifiy path when editing/creating a cheatsheet
+cheat -p <cheatpath> -e <cheatsheet>
